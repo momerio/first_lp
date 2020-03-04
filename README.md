@@ -1,5 +1,5 @@
-# lp_format
+# first_lp
 
 ## Descriptions
 
-＃ lp_format を 作って HTML, CSS を 学習していこう！
+＃ first_lp を 作って HTML, CSS を 学習していこう！
