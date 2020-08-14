@@ -24,10 +24,6 @@ a:hover {
   color: #fec503;
 }
 
-.text-primary {
-  color: #ffcb6a !important;
-}
-
 h1,
 h2,
 h3,
@@ -72,10 +68,10 @@ h6 {
   background: #ffcb6a;
   text-shadow: none;
 }
+
 img {
   object-fit: cover;
 }
-
 
 img::-moz-selection {
   background: transparent;
